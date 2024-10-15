@@ -1,0 +1,25 @@
+{
+    "Establecimientos": [
+    {
+        "nombre": "Bar Pasqual",
+        "especialidad": "Bar de tapas",
+        "calle": "Avenida diagonal",
+        "numero" : "232",
+        "propietario":"Joan Alcover"
+    },
+    {
+        "nombre": "Restaurante Meravellas",
+        "especialidad": "Restaurante de menus",
+        "calle": "Meridiana",
+        "numero" : "111",
+        "propietario":"Maria Garcia"
+    },
+    {
+        "nombre": "Restaurante Racó de l'Avia<",
+        "especialidad": "Restaurante de menus",
+        "calle": "Av. Roma",
+        "numero" : "221",
+        "propietario":"Alba Puig"
+    }
+    ] 
+}

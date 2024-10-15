@@ -1,0 +1,16 @@
+<Empresa>
+   <Empleado NumEmpleado= "1234567890">
+      <Apellido>Perez</Apellido>
+      <Nombre>Juan</Nombre>
+      <NumEmpleado>1234567890</NumEmpleado>
+      <Email>juanperez@gmail.com</Email>
+      <Telefono>666 555 444</Telefono>
+      <Direccion>
+         <Calle>Carrer de Pau Claris, 121</Calle>
+         <Ciudad cp="08009">Barcelona</Ciudad>
+      </Direccion>
+   </Empleado>
+</Empresa>
+<!-- Si, calle y ciudad pordria ser atributo de direccion.
+ <Direccion calle="Carrer de Pau Claris, 121" ciudad="Barcelona" cp="08009" />
+-->

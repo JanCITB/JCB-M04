@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<matricula
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="A2_xsd_ex7.xsd">
+    <ciclo>Ingeniería Informática</ciclo>
+    <alumnos>
+        <alumno>
+            <nombre>Roma Carbo</nombre>
+            <year>2223</year>
+            <asignaturas>
+                <asignatura>Matemáticas</asignatura>
+                <asignatura>Programación</asignatura>
+                <asignatura>Física</asignatura>
+            </asignaturas>
+        </alumno>
+        <alumno>
+            <nombre>Juan Pablo</nombre>
+            <year>2022</year>
+            <asignaturas>
+                <asignatura>Álgebra</asignatura>
+                <asignatura>Estadística</asignatura>
+                <asignatura>Inteligencia Artificial</asignatura>
+            </asignaturas>
+        </alumno>
+    </alumnos>
+</matricula>

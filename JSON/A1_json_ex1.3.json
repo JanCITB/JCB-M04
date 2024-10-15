@@ -1,0 +1,26 @@
+{
+    "Obras": [
+    {
+        "color": "Azul sobre blanco",
+        "tipologia": "Abstracto",
+        "Autor": "Pere Àguila",
+        "año" : "2014",
+        "tecnica":"Óleo"
+    },
+    {
+        "color": "Gris oscuro",
+        "tipologia": "Abstracto",
+        "Autor": "Pere Àguila",
+        "año" : "2010",
+        "tecnica":"acuarela"
+    },
+    {
+        "color": "Camino Largo",
+        "tipologia": "escultura",
+        "Autor": "Marta Lambert",
+        "año" : "1981",
+        "tecnica":"mármol"
+    }
+    ] 
+}
+

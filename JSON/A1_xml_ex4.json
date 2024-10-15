@@ -1,0 +1,153 @@
+{
+  "Recetas": {
+    "Receta1": {
+      "Ingredientes": {
+        "Ingrediente1": {
+          "Nombre": "Macarrones",
+          "Cantidad": "250g"
+        },
+        "Ingrediente2": {
+          "Nombre": "Carne Molida",
+          "Cantidad": "200g"
+        },
+        "Ingrediente3": {
+          "Nombre": "Cebolla",
+          "Cantidad": "1 mediana"
+        },
+        "Ingrediente4": {
+          "Nombre": "Ajo",
+          "Cantidad": "2 dientes"
+        },
+        "Ingrediente5": {
+          "Nombre": "Tomate Triturado",
+          "Cantidad": "400g"
+        },
+        "Ingrediente6": {
+          "Nombre": "Queso Rallado",
+          "Cantidad": "100g"
+        },
+        "Ingrediente7": {
+          "Nombre": "Aceite de Oliva",
+          "Cantidad": "2 cucharadas"
+        },
+        "Ingrediente8": {
+          "Nombre": "Sal",
+          "Cantidad": "Al gusto"
+        },
+        "Ingrediente9": {
+          "Nombre": "Pimienta",
+          "Cantidad": "Al gusto"
+        },
+        "Ingrediente10": {
+          "Nombre": "Orégano",
+          "Cantidad": "1 cucharadita"
+        }
+      },
+      "Preparacion": [
+        {
+          "numero": "1",
+          "descripcion": "Hierve agua con sal y cocina los macarrones hasta que estén al dente."
+        },
+        {
+          "numero": "2",
+          "descripcion": "Pica la cebolla y los ajos finamente."
+        },
+        {
+          "numero": "3",
+          "descripcion": "En una sartén, calienta el aceite de oliva y sofríe la cebolla y los ajos hasta que estén dorados."
+        },
+        {
+          "numero": "4",
+          "descripcion": "Agrega la carne molida y cocínala hasta que esté bien dorada."
+        },
+        {
+          "numero": "5",
+          "descripcion": "Añade el tomate triturado, sal, pimienta y orégano. Cocina a fuego medio por 15 minutos."
+        },
+        {
+          "numero": "6",
+          "descripcion": "Escurre los macarrones y agrégales la salsa boloñesa."
+        },
+        {
+          "numero": "7",
+          "descripcion": "Mezcla bien y sirve con queso rallado por encima."
+        }
+      ]
+    },
+    "Receta2": {
+      "Nombre": "Durum de Pollo",
+      "Ingredientes": {
+        "Ingrediente1": {
+          "Nombre": "Tortillas de Trigo",
+          "Cantidad": "4 unidades"
+        },
+        "Ingrediente2": {
+          "Nombre": "Pechuga de Pollo",
+          "Cantidad": "400g"
+        },
+        "Ingrediente3": {
+          "Nombre": "Lechuga",
+          "Cantidad": "100g"
+        },
+        "Ingrediente4": {
+          "Nombre": "Tomate",
+          "Cantidad": "2 unidades"
+        },
+        "Ingrediente5": {
+          "Nombre": "Cebolla",
+          "Cantidad": "1 pequeña"
+        },
+        "Ingrediente6": {
+          "Nombre": "Salsa de Yogur",
+          "Cantidad": "Al gusto"
+        },
+        "Ingrediente7": {
+          "Nombre": "Pimentón",
+          "Cantidad": "1 cucharadita"
+        },
+        "Ingrediente8": {
+          "Nombre": "Aceite de Oliva",
+          "Cantidad": "2 cucharadas"
+        },
+        "Ingrediente9": {
+          "Nombre": "Sal",
+          "Cantidad": "Al gusto"
+        },
+        "Ingrediente10": {
+          "Nombre": "Pimienta",
+          "Cantidad": "Al gusto"
+        }
+      },
+      "Preparacion": [
+        {
+          "numero": "1",
+          "descripcion": "Corta la pechuga de pollo en tiras y sazónalas con pimentón, sal y pimienta."
+        },
+        {
+          "numero": "2",
+          "descripcion": "Calienta el aceite de oliva en una sartén y cocina las tiras de pollo hasta que estén doradas."
+        },
+        {
+          "numero": "3",
+          "descripcion": "Lava y corta la lechuga, el tomate y la cebolla en rodajas finas."
+        },
+        {
+          "numero": "4",
+          "descripcion": "Calienta las tortillas de trigo en una sartén o en el microondas durante unos segundos."
+        },
+        {
+          "numero": "5",
+          "descripcion": "Coloca las tiras de pollo, lechuga, tomate y cebolla sobre las tortillas."
+        },
+        {
+          "numero": "6",
+          "descripcion": "Añade salsa de yogur al gusto sobre los ingredientes."
+        },
+        {
+          "numero": "7",
+          "descripcion": "Enrolla la tortilla para formar el durum y sirve caliente."
+        }
+      ]
+    }
+  }
+}

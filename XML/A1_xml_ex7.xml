@@ -1,0 +1,20 @@
+<arrel>
+    <datos>
+        <persona>
+            <nombre>Pere Garcia</nombre>
+        </persona>
+        <perro>
+            <nombre>Rufy</nombre>
+        </perro>
+    </datos>
+
+    <!--Las dos etiquetas tienen que estar dentro de una raiz-->
+    <persona>
+        <nombre>Pere</nombre>
+        <apellido> Pérez </apellido>
+        <apellido2>Garcia</apellido2>
+        <edad>22</edad>
+    </persona>
+</arrel>
+
+<!--Como tenemos dos etiquetas iguales hay que juntar-las-->

@@ -1,0 +1,15 @@
+<Football_team>
+    <name>Liverpool F.C.</name>
+    <players>
+        <Player position ="Goalkeeper">
+            <Name>Alisson Becker</Name>
+            <Nacionality>Brazilian</Nacionality>
+        </Player>
+        <Player position ="Forward">
+            <Name>Mohamed Salah</Name>
+            <Number>11</Number>
+        </Player>
+    </players>
+    <Coach>Jürgen Klopp</Coach>
+    <City>Liverpool</City> <!-- Beatiful city-->
+</Football_team>

@@ -1,0 +1,23 @@
+<Obras>
+    <Obra1>
+        <color>Azul sobre blanco</color>
+        <Tipologia>Abstracto</Tipologia>
+        <Autor>Pere Àguila</Autor>
+        <año>2014</año>
+        <Tecnica>Óleo</Tecnica>
+    </Obra1>
+    <Obra2>
+        <color>Gris oscuro</color>
+        <Tipologia>Abstracto</Tipologia>
+        <Autor>Pere Àguila</Autor>
+        <año>2010</año>
+        <Tecnica>acuarela</Tecnica>
+    </Obra2>
+    <Obra3>
+        <nombreEscultura>Camino Largo</nombreEscultura>
+        <Tipologia>escultura</Tipologia>
+        <Autor>Marta Lambert</Autor>
+        <año>1981</año>
+        <Tecnica>mármol</Tecnica>
+    </Obra3>
+</Obras>

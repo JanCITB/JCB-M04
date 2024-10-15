@@ -1,0 +1,9 @@
+<alumne>
+    <nom>Juan</nom>
+    <cognom>Garcia</cognom>
+    <Naixament>
+        <dia>23</dia>
+        <mes>Febrebro</mes>
+        <any>2001</any>
+    </Naixament>
+</alumne>

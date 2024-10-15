@@ -1,0 +1,23 @@
+<Establecimientos>
+    <establecimiento1>
+        <nombre>Bar Pasqual</nombre>
+        <especialidad>Bar de tapas</especialidad>
+        <calle>Avenida diagonal</calle>
+        <numero>232</numero>
+        <propietario>Joan Alcover</propietario>
+    </establecimiento1>
+    <establecimiento2>
+        <nombre>Restaurante Meravellas</nombre>
+        <especialidad>Restaurante de menus</especialidad>
+        <calle>Meridiana</calle>
+        <numero>111</numero>
+        <propietario>Maria Garcia</propietario>
+    </establecimiento2>
+    <establecimiento3>
+        <nombre>Restaurante Racó de l'Avia</nombre>
+        <especialidad>Restaurante de menus</especialidad>
+        <calle>Av. Roma</calle>
+        <numero>221</numero>
+        <propietario>Alba Puig</propietario>
+    </establecimiento3>
+</Establecimientos>

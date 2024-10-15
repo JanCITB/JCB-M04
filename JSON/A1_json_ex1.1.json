@@ -1,0 +1,8 @@
+{
+    "Alumno": {
+        "nombre": "Juan",
+        "apellido": "Garcia",
+        "dia_nacimiento": "23 de Febrero 2001",
+        "ciudad_nacimiento" : "Barcelona"
+    }
+}

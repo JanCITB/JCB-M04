@@ -1,0 +1,109 @@
+<Recetas>
+    <Receta1>
+        <Ingredientes>
+            <Ingrediente1>
+                <Nombre>Macarrones</Nombre>
+                <Cantidad>250g</Cantidad>
+            </Ingrediente1>
+            <Ingrediente2>
+                <Nombre>Carne Molida</Nombre>
+                <Cantidad>200g</Cantidad>
+            </Ingrediente2>
+            <Ingrediente3>
+                <Nombre>Cebolla</Nombre>
+                <Cantidad>1 mediana</Cantidad>
+            </Ingrediente3>
+            <Ingrediente4>
+                <Nombre>Ajo</Nombre>
+                <Cantidad>2 dientes</Cantidad>
+            </Ingrediente4>
+            <Ingrediente5>
+                <Nombre>Tomate Triturado</Nombre>
+                <Cantidad>400g</Cantidad>
+            </Ingrediente5>
+            <Ingrediente6>
+                <Nombre>Queso Rallado</Nombre>
+                <Cantidad>100g</Cantidad>
+            </Ingrediente6>
+            <Ingrediente7>
+                <Nombre>Aceite de Oliva</Nombre>
+                <Cantidad>2 cucharadas</Cantidad>
+            </Ingrediente7>
+            <Ingrediente8>
+                <Nombre>Sal</Nombre>
+                <Cantidad>Al gusto</Cantidad>
+            </Ingrediente8>
+            <Ingrediente9>
+                <Nombre>Pimienta</Nombre>
+                <Cantidad>Al gusto</Cantidad>
+            </Ingrediente9>
+            <Ingrediente10>
+                <Nombre>Orégano</Nombre>
+                <Cantidad>1 cucharadita</Cantidad>
+            </Ingrediente10>
+        </Ingredientes>
+        <Preparacion>
+            <Paso numero="1" descripcion="Hierve agua con sal y cocina los macarrones hasta que estén al dente." />
+            <Paso numero="2" descripcion="Pica la cebolla y los ajos finamente." />
+            <Paso numero="3" descripcion="En una sartén, calienta el aceite de oliva y sofríe la cebolla y los ajos hasta que estén dorados." />
+            <Paso numero="4" descripcion="Agrega la carne molida y cocínala hasta que esté bien dorada." />
+            <Paso numero="5" descripcion="Añade el tomate triturado, sal, pimienta y orégano. Cocina a fuego medio por 15 minutos." />
+            <Paso numero="6" descripcion="Escurre los macarrones y agrégales la salsa boloñesa." />
+            <Paso numero="7" descripcion="Mezcla bien y sirve con queso rallado por encima." />
+        </Preparacion>
+    </Receta1>
+    <Receta2>
+        <Nombre>Durum de Pollo</Nombre>
+        <Ingredientes>
+            <Ingrediente1>
+                <Nombre>Tortillas de Trigo</Nombre>
+                <Cantidad>4 unidades</Cantidad>
+            </Ingrediente1>
+            <Ingrediente2>
+                <Nombre>Pechuga de Pollo</Nombre>
+                <Cantidad>400g</Cantidad>
+            </Ingrediente2>
+            <Ingrediente3>
+                <Nombre>Lechuga</Nombre>
+                <Cantidad>100g</Cantidad>
+            </Ingrediente3>
+            <Ingrediente4>
+                <Nombre>Tomate</Nombre>
+                <Cantidad>2 unidades</Cantidad>
+            </Ingrediente4>
+            <Ingrediente5>
+                <Nombre>Cebolla</Nombre>
+                <Cantidad>1 pequeña</Cantidad>
+            </Ingrediente5>
+            <Ingrediente6>
+                <Nombre>Salsa de Yogur</Nombre>
+                <Cantidad>Al gusto</Cantidad>
+            </Ingrediente6>
+            <Ingrediente7>
+                <Nombre>Pimentón</Nombre>
+                <Cantidad>1 cucharadita</Cantidad>
+            </Ingrediente7>
+            <Ingrediente8>
+                <Nombre>Aceite de Oliva</Nombre>
+                <Cantidad>2 cucharadas</Cantidad>
+            </Ingrediente8>
+            <Ingrediente9>
+                <Nombre>Sal</Nombre>
+                <Cantidad>Al gusto</Cantidad>
+            </Ingrediente9>
+            <Ingrediente10>
+                <Nombre>Pimienta</Nombre>
+                <Cantidad>Al gusto</Cantidad>
+            </Ingrediente10>
+        </Ingredientes>
+        <Preparacion>
+            <Paso numero="1" descripcion="Corta la pechuga de pollo en tiras y sazónalas con pimentón, sal y pimienta." />
+            <Paso numero="2" descripcion="Calienta el aceite de oliva en una sartén y cocina las tiras de pollo hasta que estén doradas." />
+            <Paso numero="3" descripcion="Lava y corta la lechuga, el tomate y la cebolla en rodajas finas." />
+            <Paso numero="4" descripcion="Calienta las tortillas de trigo en una sartén o en el microondas durante unos segundos." />
+            <Paso numero="5" descripcion="Coloca las tiras de pollo, lechuga, tomate y cebolla sobre las tortillas." />
+            <Paso numero="6" descripcion="Añade salsa de yogur al gusto sobre los ingredientes." />
+            <Paso numero="7" descripcion="Enrolla la tortilla para formar el durum y sirve caliente." />
+        </Preparacion>
+    </Receta2>
+</Recetas>
