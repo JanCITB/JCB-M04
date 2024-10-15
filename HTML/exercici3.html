@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página con Grid Layout</title>
+    <style>
+        body {  
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            background-color: green;
+            grid-template-areas: 
+            "header header"
+            "aside aside"
+            "footer footer";
+            height: 100vh;
+            margin: 0;
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>A nested list</h1>
+        <ul>
+            <li>Coffee</li>
+            <li>Tea</li>
+            <ul>
+                <li>black tea</li>
+                <li>green tea</li>
+                <ul>
+                    <li>China</li>
+                    <li>Africa</li>
+                </ul>
+            </ul>
+            <li>Milk</li>
+        </ul>
+
+    </header>
+</body>
+</html>
