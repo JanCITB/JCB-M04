@@ -1,0 +1,27 @@
+body {
+    background-color: cyan;
+}
+
+p {
+    font-size: 20px;
+    color: blue;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.derecha {
+    text-align: right;
+}
+
+.plata {
+    background-color: silver;
+    padding: 10px;
+}
+
+.alineado {
+    color: red;
+}
